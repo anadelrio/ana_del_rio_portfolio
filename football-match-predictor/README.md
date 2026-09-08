@@ -79,9 +79,8 @@ football-match-predictor/
 ├── src/
 │   ├── models_without_conformal.py   # comparativa de 8 modelos + bias-variance decomposition
 │   └── models_conformal.py           # calibración + conformal prediction + feature importance
-├── datasets/
-│   ├── inputs/                       # datasets de entrada
-│   └── outputs/                      # resultados generados al ejecutar los scripts
+├── datasets/                      
+│   └── inputs/                      # datasets de entrada
 ├── docs/
 │   └── informe_proyecto.pdf          # informe completo del proyecto
 ├── requirements.txt
