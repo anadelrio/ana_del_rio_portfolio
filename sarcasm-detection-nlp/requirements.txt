@@ -1,0 +1,10 @@
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+joblib>=1.2
+torch>=2.0
+transformers>=4.30
+tqdm>=4.65
+matplotlib>=3.6
+seaborn>=0.12
+jupyter>=1.0
