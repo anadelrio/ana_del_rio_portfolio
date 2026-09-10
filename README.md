@@ -1,4 +1,4 @@
-# Data Science Portofolio - Ana del Río del Barrio
+# Data Science Portfolio - Ana del Río del Barrio
 Selección de proyectos de Machine Learning, Deep Learning y análisis estadístico
 desarrollados durante mi formación (Universidad de Oviedo, Sapienza Università di Roma)
 y mi beca en EDP.
